@@ -1,0 +1,11 @@
+{
+	"recommendations": [
+		"biomejs.biome", // o "esbenp.prettier-vscode" + "dbaeumer.vscode-eslint"
+		"ms-vscode.vscode-typescript-next",
+		"bradlc.vscode-tailwindcss",
+		"ms-vscode.vscode-json",
+		"formulahendry.auto-rename-tag",
+		"christian-kohler.path-intellisense",
+		"ms-vscode.vscode-eslint" // si usas ESLint
+	]
+}
