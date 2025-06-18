@@ -5,7 +5,7 @@ This project demonstrates a full-stack application implementing JWT authenticati
 ## Project Structure
 
 - [Backend Documentation (NestJS)](./nest-auth/)
-- [Frontend Documentation (React)](./taask-app/)
+- [Frontend Documentation (React)](./task-app/)
 
 ## Features
 
@@ -19,7 +19,7 @@ This project demonstrates a full-stack application implementing JWT authenticati
 
 1. Clone the repository
 2. Set up the backend: Follow instructions in [backend documentation](./nest-auth/)
-3. Set up the frontend: Follow instructions in [frontend documentation](./taask-app/)
+3. Set up the frontend: Follow instructions in [frontend documentation](./task-app/)
 
 ## Tech Stack
 
