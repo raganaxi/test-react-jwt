@@ -33,14 +33,7 @@ export default function LoginForm() {
 			navigate("/tasks/dashboard");
 		} catch (error) {
 			console.error("Login failed:", error);
-			if (error instanceof AxiosError && error.response?.status === 401) {
-				showToast(
-					error.response.data.message || "Invalid credentials",
-					"error",
-				);
-			} else {
-				showToast("Ocurrió un error. Intenta más tarde.", "error");
-			}
+			
 		}
 	};
 
